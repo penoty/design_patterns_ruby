@@ -2,6 +2,7 @@
 
 ## 释义
 将请求封装成命令对象，请求的具体执行由命令接收者执行
+##UML
 ![image](./pattern_command_uml.png)
 ## ruby实现
 
@@ -58,4 +59,4 @@ class Foot
 end
 
 ```
-![image](./pattern_decorator.png)
+![image](./pattern_command.png)

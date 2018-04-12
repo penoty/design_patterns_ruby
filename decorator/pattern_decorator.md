@@ -1,7 +1,7 @@
 # 设计模式-装饰者(结构)
-
 ## 释义
 不改动原类结构情况下，对原类进行功能扩展。
+## UML
 ![image](./pattern_decorator_uml.png)
 ## ruby实现
 
