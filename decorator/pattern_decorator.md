@@ -21,4 +21,5 @@ class PersonDecorator < SimpleDelegator
   end
 end
 ```
+## 调用
 ![image](./pattern_decorator.png)
